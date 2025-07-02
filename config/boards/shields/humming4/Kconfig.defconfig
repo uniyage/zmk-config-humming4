@@ -1,0 +1,6 @@
+if SHIELD_HUMMING4
+
+config ZMK_KEYBOARD_NAME
+	default "humming4"
+
+endif

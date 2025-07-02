@@ -1,0 +1,2 @@
+config SHIELD_HUMMING4
+	def_bool $(shield_list_contains,humming4)
